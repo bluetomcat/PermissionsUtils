@@ -1,3 +1,4 @@
+[![](https://jitpack.io/v/bluetomcat/PermissionsUtils.svg)](https://jitpack.io/#bluetomcat/PermissionsUtils)
 # 一个好用的动态权限请求工具PermissionsUtils
 动态权限请求工具
 ____________
