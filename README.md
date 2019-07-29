@@ -1,4 +1,4 @@
-# 一个好用的动态权限请求工具类PermissionsUtils
+# 一个好用的动态权限请求工具PermissionsUtils
 动态权限请求工具
 ____________
 > 工具类参考自GitHub上开源工程Blankj的[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)中的[PermissionUtils](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java) 和tbruyelle的[RxPermissions](https://github.com/tbruyelle/RxPermissions)
@@ -108,11 +108,13 @@ android.permission.READ_PHONE_STATE
  - `onDenied(List<String> permissionsDeniedForever, List<String> permissionsDenied)`：每次请求循环结束后，申请的权限存在被拒绝的权限时调用，参数是被永久拒绝的权限集合和被拒绝的权限集合
  - `onFinish()`：所有请求结束后调用
 ### 参考文档
-PermissionUtils.Java：[https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java)
+PermissionUtils.Java
+[https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java)
 
 RxPermissions:
 [https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
-[CSDN博文地址:https://blog.csdn.net/TomCat0916/article/details/89208906](https://blog.csdn.net/TomCat0916/article/details/89208906)
+CSDN博文地址:
+[https://blog.csdn.net/TomCat0916/article/details/89208906](https://blog.csdn.net/TomCat0916/article/details/89208906)
 __________
 注：能力有限，如有不足欢迎大神指教，万分感谢！！！
