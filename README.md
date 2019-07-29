@@ -109,6 +109,7 @@ android.permission.READ_PHONE_STATE
  - `onFinish()`：所有请求结束后调用
 ### 参考文档
 PermissionUtils.Java：[https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java)
+
 RxPermissions:
 [https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
 
