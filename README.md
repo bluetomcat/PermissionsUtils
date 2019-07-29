@@ -111,5 +111,7 @@ android.permission.READ_PHONE_STATE
 PermissionUtils.Java：[https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java](https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/PermissionUtils.java)
 RxPermissions:
 [https://github.com/tbruyelle/RxPermissions](https://github.com/tbruyelle/RxPermissions)
+
+[CSDN博文地址:https://blog.csdn.net/TomCat0916/article/details/89208906](https://blog.csdn.net/TomCat0916/article/details/89208906)
 __________
 注：能力有限，如有不足欢迎大神指教，万分感谢！！！
